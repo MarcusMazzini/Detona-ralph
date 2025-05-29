@@ -35,3 +35,9 @@
   background-image: url("../images/ralph.png");
   background-size: cover;
 }
+
+.menu-lives {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
