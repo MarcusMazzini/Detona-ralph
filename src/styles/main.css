@@ -4,6 +4,7 @@
   flex-direction: column;
   /* para que o container ocupe 100 % da altura, coloca-se o height */
   height: 100vh;
+  background-image: url("../images/wall.png");
 }
 
 .menu {
@@ -21,14 +22,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #ff0000;
 }
 
 .square {
   height: 150px;
   width: 150px;
   border: 1px solid #000000;
-  background-color: #7fffd4;
+  background-color: #1aeaa5;
 }
 
 .enemy {
