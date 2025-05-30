@@ -43,6 +43,7 @@
   justify-content: center;
 }
 
+/* ao invés de usar classe, utilizei pseudo-classe CSS :nth-child() para selecionar os elementos com base em suas posições em um grupo de elementos irmãos.  */
 .menu-time h2:nth-child(2),
 .menu-score h2:nth-child(2) {
   margin-top: 1rem;
