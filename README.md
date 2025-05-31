@@ -1,10 +1,9 @@
-
 <h1 align="center">
   👊 JSGame: Detona Ralph 👾
 </h1>
 
 <p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo" width="300">
+  <img src="./src/images/DR-logo.png" alt="JSGame Detona Ralph Logo" width="300">
 </p>
 
 <p align="center">
@@ -26,7 +25,7 @@ Este jogo foi desenvolvido com:
 
 - ⚙️ **HTML5 & CSS3**: Estrutura e estilo retrô.
 - ⚡ **JavaScript**: Lógica de jogo, pontuação e interatividade.
-- 🎨 **Sprites personalizados**: Fiel ao universo visual de *Detona Ralph*.
+- 🎨 **Sprites personalizados**: Fiel ao universo visual de _Detona Ralph_.
 
 ---
 
